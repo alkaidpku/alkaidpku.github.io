@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in School of Electronic Engineering and Computer Science, Peking University, 2022
+* M.S. in Academy for Advanced Interdisciplinary Studies, Peking University, 2025 (expected)
 
+<!-- 
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -25,35 +25,29 @@ Work experience
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub 
+-->
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C++
+* Python
+* CET-6
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  [ACL'23 Findings](https://aclanthology.org/2023.findings-acl.449/) Hejing Cao and Dongyan Zhao. 2023. Leveraging Denoised Abstract Meaning Representation for Grammatical Error Correction. In Findings of the Association for Computational Linguistics: ACL 2023, pages 7180–7188, Toronto, Canada. Association for Computational Linguistics.
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Introduction to Computation (B), (Teaching Assistant, Autumn 2021)
+Introduction to Computation (B), (Teaching Assistant, Autumn 2022)
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
