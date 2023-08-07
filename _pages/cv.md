@@ -36,7 +36,7 @@ Skills
 
 Publications
 ======
-  [ACL'23 Findings](https://aclanthology.org/2023.findings-acl.449/) Hejing Cao and Dongyan Zhao. 2023. Leveraging Denoised Abstract Meaning Representation for Grammatical Error Correction. In Findings of the Association for Computational Linguistics: ACL 2023, pages 7180–7188, Toronto, Canada. Association for Computational Linguistics.
+  [[ACL'23 Findings]](https://aclanthology.org/2023.findings-acl.449/) Hejing Cao and Dongyan Zhao. 2023. Leveraging Denoised Abstract Meaning Representation for Grammatical Error Correction. In Findings of the Association for Computational Linguistics: ACL 2023, pages 7180–7188, Toronto, Canada. Association for Computational Linguistics.
   
 <!-- Talks
 ======
@@ -46,8 +46,9 @@ Publications
   
 Teaching
 ======
-Introduction to Computation (B), (Teaching Assistant, Autumn 2021)
-Introduction to Computation (B), (Teaching Assistant, Autumn 2022)
+* Introduction to Computation (B), (Teaching Assistant, Autumn 2021)
+* Introduction to Computation (B), (Teaching Assistant, Autumn 2022)
   
 Service and leadership
 ======
+* ACL reviewer 2023
