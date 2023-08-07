@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hejing Cao"
+title: "Welcome to Hejing Cao's Homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
