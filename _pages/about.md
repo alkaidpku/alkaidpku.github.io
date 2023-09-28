@@ -10,7 +10,7 @@ redirect_from:
 
 ## About me
 
-I am a second-year graduate student at the [Wangxuan Institute of Computer Technology, Peking University](https://www.icst.pku.edu.cn/english/about_us/introduction/index.htm), advised by Prof. [Dongyan Zhao](https://www.wict.pku.edu.cn/zhaodongyan/en/). I received my bachelor's degree in [School of Electronic Engineering and Computer Science, Peking University](https://eecs.pku.edu.cn/en/) in 2022. My research interests are in natural language processing and grammatical error correction.
+I am a second-year graduate student at the [Wangxuan Institute of Computer Technology, Peking University](https://www.icst.pku.edu.cn/english/about_us/introduction/index.htm), advised by Prof. [Yansong Feng](https://sites.google.com/site/ysfeng/home) and Prof. [Dongyan Zhao](https://www.wict.pku.edu.cn/zhaodongyan/en/). I received my bachelor's degree in [School of Electronic Engineering and Computer Science, Peking University](https://eecs.pku.edu.cn/en/) in 2022. My research interests are in natural language processing and grammatical error correction.
 
 ## News
 + [May 2023] Our paper of leveraging AMR for GEC is accepted in findings of ACL 2023
